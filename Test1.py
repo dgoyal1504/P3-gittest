@@ -1,4 +1,4 @@
 import numpy
 n = 3
-m = 6
+m = 9
 print n*m
